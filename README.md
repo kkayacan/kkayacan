@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a certified SAP ABAP / SAPUI5 consultant based in Istanbul / Turkey. I started SAP consulting in 2008. I also develop full stack web applications as side projects.
+I am a certified SAP ABAP / SAPUI5 consultant based in Turkey. I started SAP consulting in 2008. I also develop full stack web applications as side projects.
 <!--
 **kkayacan/kkayacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on [filterable-news-api](https://github.com/kkayacan/filterable-news-api) and [filterable-news-ui5](https://github.com/kkayacan/filterable-news-ui5)
+-->
 - 📫 How to reach me: [My personal website](https://keremkayacan.com)
